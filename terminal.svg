@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="807" viewBox="0 0 820 807" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14">
+<title>DAX-Quantum@tux: ~</title>
+<defs>
+<linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0e1017"/>
+<stop offset="50%" stop-color="#181d28"/>
+<stop offset="100%" stop-color="#0f121a"/>
+</linearGradient>
+<radialGradient id="glow" cx="85%" cy="15%" r="65%">
+<stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.16"/>
+<stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="c0"><rect x="44" y="92" width="161.6" height="21"><animate attributeName="width" values="161.6;170.0;178.4;186.8;195.2;203.6;212.0;220.4;228.8" keyTimes="0.0000;0.1250;0.2500;0.3750;0.5000;0.6250;0.7500;0.8750;1.0000" calcMode="discrete" begin="1.20s" dur="0.44s" fill="freeze"/></rect></clipPath><clipPath id="c1"><rect x="44" y="291" width="161.6" height="21"><animate attributeName="width" values="161.6;170.0;178.4;186.8;195.2;203.6;212.0;220.4;228.8;237.2;245.6;254.0;262.4" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" calcMode="discrete" begin="3.64s" dur="0.66s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="44" y="385" width="161.6" height="21"><animate attributeName="width" values="161.6;170.0;178.4;186.8;195.2;203.6;212.0;220.4;228.8;237.2;245.6;254.0;262.4;270.8" keyTimes="0.0000;0.0769;0.1538;0.2308;0.3077;0.3846;0.4615;0.5385;0.6154;0.6923;0.7692;0.8462;0.9231;1.0000" calcMode="discrete" begin="5.80s" dur="0.71s" fill="freeze"/></rect></clipPath><clipPath id="c3"><rect x="44" y="542" width="161.6" height="21"><animate attributeName="width" values="161.6;170.0;178.4;186.8;195.2;203.6;212.0;220.4;228.8;237.2;245.6;254.0;262.4;270.8;279.2;287.6;296.0" keyTimes="0.0000;0.0625;0.1250;0.1875;0.2500;0.3125;0.3750;0.4375;0.5000;0.5625;0.6250;0.6875;0.7500;0.8125;0.8750;0.9375;1.0000" calcMode="discrete" begin="8.31s" dur="0.88s" fill="freeze"/></rect></clipPath><clipPath id="c4"><rect x="44" y="657" width="161.6" height="21"><animate attributeName="width" values="161.6;170.0;178.4;186.8;195.2;203.6;212.0;220.4;228.8;237.2;245.6;254.0;262.4" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" calcMode="discrete" begin="10.79s" dur="0.66s" fill="freeze"/></rect></clipPath>
+</defs>
+
+<!-- desktop wallpaper -->
+<rect width="820" height="807" rx="12" fill="url(#wall)"/>
+<rect width="820" height="807" rx="12" fill="url(#glow)"/>
+
+<!-- GNOME-style top panel -->
+<rect width="820" height="28" rx="0" fill="#000000" opacity="0.75"/>
+<text x="18" y="19" font-family="Ubuntu, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#ffffff">Activities</text>
+<text x="86" y="19" font-family="Ubuntu, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#7aa2f7" font-weight="500">Terminal</text>
+<text x="410.0" y="19" text-anchor="middle" font-family="Ubuntu, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5" opacity="0.9">Thu Oct 1  02:10</text>
+<g fill="#ffffff" opacity="0.9">
+<!-- network wifi -->
+<path d="M746 18 a5 5 0 0 1 10 0" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="751" cy="19" r="1.3"/>
+<!-- audio volume -->
+<path d="M765 12 v6 l4 3 h2 v-12 h-2 z" fill="#ffffff"/>
+<path d="M773 13 a4 4 0 0 1 0 6" fill="none" stroke="#ffffff" stroke-width="1.4" stroke-linecap="round"/>
+<!-- battery pill -->
+<rect x="782" y="9.5" width="18" height="10" rx="2" fill="none" stroke="#ffffff" stroke-width="1.3"/>
+<rect x="785" y="11.5" width="11" height="6" rx="1" fill="#9ece6a"/>
+<rect x="801" y="12.5" width="2" height="4" rx="0.5" fill="#ffffff"/>
+</g>
+
+<!-- terminal window shadow -->
+<rect x="16" y="47" width="788" height="747" rx="10" fill="#000000" opacity="0.4"/>
+
+<!-- terminal window body & titlebar -->
+<rect x="16" y="44" width="788" height="747" rx="10" fill="#16161e" stroke="#24283b" stroke-width="1.2"/>
+<path d="M16 78 V54 a10 10 0 0 1 10 -10 H794 a10 10 0 0 1 10 10 V78 Z" fill="#1f2335"/>
+
+<!-- traffic light controls -->
+<circle cx="34" cy="61" r="6" fill="#f7768e"/>
+<circle cx="54" cy="61" r="6" fill="#e0af68"/>
+<circle cx="74" cy="61" r="6" fill="#9ece6a"/>
+
+<!-- window title -->
+<text x="410.0" y="66" text-anchor="middle" font-size="12" fill="#7aa2f7" font-weight="500">DAX-Quantum@tux: ~</text>
+
+<!-- animated content -->
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.80s" fill="freeze"/><text x="44" y="108" clip-path="url(#c0)" xml:space="preserve"><tspan fill="#9ece6a">DAX-Quantum@tux</tspan><tspan fill="#c0caf5">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan><tspan fill="#c0caf5">neofetch</tspan></text></g>
+<rect x="203.6" y="95" width="8" height="17" fill="#c0caf5" opacity="0"><set attributeName="opacity" to="1" begin="0.80s" fill="freeze"/><animate attributeName="x" values="203.6;212.0;220.4;228.8;237.2;245.6;254.0;262.4;270.8" keyTimes="0.0000;0.1250;0.2500;0.3750;0.5000;0.6250;0.7500;0.8750;1.0000" calcMode="discrete" begin="1.20s" dur="0.44s" fill="freeze"/><set attributeName="opacity" to="0" begin="1.89s" fill="freeze"/></rect>
+<text x="44" y="129" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="1.99s" fill="freeze"/><tspan fill="#c0caf5">    .--.    </tspan><tspan fill="#9ece6a">DAX-Quantum@tux</tspan></text>
+<text x="44" y="150" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="2.09s" fill="freeze"/><tspan fill="#c0caf5">   |</tspan><tspan fill="#7dcfff">o_o </tspan><tspan fill="#c0caf5">|   </tspan><tspan fill="#565f89">---------------</tspan></text>
+<text x="44" y="171" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="2.19s" fill="freeze"/><tspan fill="#c0caf5">   |</tspan><tspan fill="#e0af68">:_/</tspan><tspan fill="#c0caf5"> |   </tspan><tspan fill="#7aa2f7">OS:       </tspan><tspan fill="#c0caf5">Arch Linux (btw), Rocky Linux, Windows</tspan></text>
+<text x="44" y="192" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="2.29s" fill="freeze"/><tspan fill="#c0caf5">  //   \ \  </tspan><tspan fill="#7aa2f7">Role:     </tspan><tspan fill="#c0caf5">CSE Student | Developer | HPC Enthusiast</tspan></text>
+<text x="44" y="213" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="2.39s" fill="freeze"/><tspan fill="#c0caf5"> (|     | ) </tspan><tspan fill="#7aa2f7">Location: </tspan><tspan fill="#c0caf5">India</tspan></text>
+<text x="44" y="234" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="2.49s" fill="freeze"/><tspan fill="#e0af68">/'\_   _/`\ </tspan><tspan fill="#7aa2f7">Editor:   </tspan><tspan fill="#c0caf5">Neovim / VS Code</tspan></text>
+<text x="44" y="255" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="2.59s" fill="freeze"/><tspan fill="#e0af68">\___)=(___/ </tspan><tspan fill="#7aa2f7">Uptime:   </tspan><tspan fill="#c0caf5">coding since 2025</tspan></text>
+<text x="44" y="276" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="2.69s" fill="freeze"/><tspan fill="#565f89">            </tspan><tspan fill="#15161e">███ </tspan><tspan fill="#f7768e">███ </tspan><tspan fill="#9ece6a">███ </tspan><tspan fill="#e0af68">███ </tspan><tspan fill="#7aa2f7">███ </tspan><tspan fill="#bb9af7">███ </tspan><tspan fill="#7dcfff">███ </tspan><tspan fill="#c0caf5">███</tspan></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="3.24s" fill="freeze"/><text x="44" y="307" clip-path="url(#c1)" xml:space="preserve"><tspan fill="#9ece6a">DAX-Quantum@tux</tspan><tspan fill="#c0caf5">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan><tspan fill="#c0caf5">cat about.md</tspan></text></g>
+<rect x="203.6" y="294" width="8" height="17" fill="#c0caf5" opacity="0"><set attributeName="opacity" to="1" begin="3.24s" fill="freeze"/><animate attributeName="x" values="203.6;212.0;220.4;228.8;237.2;245.6;254.0;262.4;270.8;279.2;287.6;296.0;304.4" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" calcMode="discrete" begin="3.64s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="0" begin="4.55s" fill="freeze"/></rect>
+<text x="44" y="328" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="4.65s" fill="freeze"/><tspan fill="#c0caf5">Hi, I'm Daksh Vashistha. I build software and tools that solve real problems.</tspan></text>
+<text x="44" y="349" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="4.75s" fill="freeze"/><tspan fill="#c0caf5">Focused on High Performance Computing (HPC), C++, and Systems Development.</tspan></text>
+<text x="44" y="370" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="4.85s" fill="freeze"/><tspan fill="#c0caf5">Open to collaborations, open-source contributions, and engineering internships.</tspan></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="5.40s" fill="freeze"/><text x="44" y="401" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#9ece6a">DAX-Quantum@tux</tspan><tspan fill="#c0caf5">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan><tspan fill="#c0caf5">skills --list</tspan></text></g>
+<rect x="203.6" y="388" width="8" height="17" fill="#c0caf5" opacity="0"><set attributeName="opacity" to="1" begin="5.40s" fill="freeze"/><animate attributeName="x" values="203.6;212.0;220.4;228.8;237.2;245.6;254.0;262.4;270.8;279.2;287.6;296.0;304.4;312.8" keyTimes="0.0000;0.0769;0.1538;0.2308;0.3077;0.3846;0.4615;0.5385;0.6154;0.6923;0.7692;0.8462;0.9231;1.0000" calcMode="discrete" begin="5.80s" dur="0.71s" fill="freeze"/><set attributeName="opacity" to="0" begin="6.76s" fill="freeze"/></rect>
+<text x="44" y="422" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="6.86s" fill="freeze"/><tspan fill="#7dcfff">C++         </tspan><tspan fill="#9ece6a">██████████████████</tspan><tspan fill="#565f89">░░</tspan><tspan fill="#e0af68"> 90%</tspan></text>
+<text x="44" y="443" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="6.96s" fill="freeze"/><tspan fill="#7dcfff">C           </tspan><tspan fill="#9ece6a">█████████████████</tspan><tspan fill="#565f89">░░░</tspan><tspan fill="#e0af68"> 85%</tspan></text>
+<text x="44" y="464" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="7.06s" fill="freeze"/><tspan fill="#7dcfff">JavaScript  </tspan><tspan fill="#9ece6a">█████████████████</tspan><tspan fill="#565f89">░░░</tspan><tspan fill="#e0af68"> 85%</tspan></text>
+<text x="44" y="485" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="7.16s" fill="freeze"/><tspan fill="#7dcfff">React       </tspan><tspan fill="#9ece6a">████████████████</tspan><tspan fill="#565f89">░░░░</tspan><tspan fill="#e0af68"> 80%</tspan></text>
+<text x="44" y="506" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="7.26s" fill="freeze"/><tspan fill="#7dcfff">Linux/Bash  </tspan><tspan fill="#9ece6a">████████████████</tspan><tspan fill="#565f89">░░░░</tspan><tspan fill="#e0af68"> 80%</tspan></text>
+<text x="44" y="527" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="7.36s" fill="freeze"/><tspan fill="#7dcfff">Docker      </tspan><tspan fill="#9ece6a">█████████████</tspan><tspan fill="#565f89">░░░░░░░</tspan><tspan fill="#e0af68"> 65%</tspan></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="7.91s" fill="freeze"/><text x="44" y="558" clip-path="url(#c3)" xml:space="preserve"><tspan fill="#9ece6a">DAX-Quantum@tux</tspan><tspan fill="#c0caf5">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan><tspan fill="#c0caf5">ls -l ~/projects</tspan></text></g>
+<rect x="203.6" y="545" width="8" height="17" fill="#c0caf5" opacity="0"><set attributeName="opacity" to="1" begin="7.91s" fill="freeze"/><animate attributeName="x" values="203.6;212.0;220.4;228.8;237.2;245.6;254.0;262.4;270.8;279.2;287.6;296.0;304.4;312.8;321.2;329.6;338.0" keyTimes="0.0000;0.0625;0.1250;0.1875;0.2500;0.3125;0.3750;0.4375;0.5000;0.5625;0.6250;0.6875;0.7500;0.8125;0.8750;0.9375;1.0000" calcMode="discrete" begin="8.31s" dur="0.88s" fill="freeze"/><set attributeName="opacity" to="0" begin="9.44s" fill="freeze"/></rect>
+<text x="44" y="579" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="9.54s" fill="freeze"/><tspan fill="#565f89">drwxr-xr-x  </tspan><tspan fill="#bb9af7">linux-server-health-audit  </tspan><tspan fill="#c0caf5">Server health &amp; resource monitor    </tspan><tspan fill="#7dcfff">[Bash]</tspan></text>
+<text x="44" y="600" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="9.64s" fill="freeze"/><tspan fill="#565f89">drwxr-xr-x  </tspan><tspan fill="#bb9af7">linux-system-info-tool     </tspan><tspan fill="#c0caf5">System telemetry &amp; hardware info    </tspan><tspan fill="#7dcfff">[Bash]</tspan></text>
+<text x="44" y="621" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="9.74s" fill="freeze"/><tspan fill="#565f89">drwxr-xr-x  </tspan><tspan fill="#bb9af7">Student_Record_System      </tspan><tspan fill="#c0caf5">Student database &amp; records manager  </tspan><tspan fill="#7dcfff">[C++]</tspan></text>
+<text x="44" y="642" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="9.84s" fill="freeze"/><tspan fill="#565f89">drwxr-xr-x  </tspan><tspan fill="#bb9af7">Comic_book                 </tspan><tspan fill="#c0caf5">Comic showcase &amp; reader web app     </tspan><tspan fill="#7dcfff">[React/JS]</tspan></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="10.39s" fill="freeze"/><text x="44" y="673" clip-path="url(#c4)" xml:space="preserve"><tspan fill="#9ece6a">DAX-Quantum@tux</tspan><tspan fill="#c0caf5">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan><tspan fill="#c0caf5">./contact.sh</tspan></text></g>
+<rect x="203.6" y="660" width="8" height="17" fill="#c0caf5" opacity="0"><set attributeName="opacity" to="1" begin="10.39s" fill="freeze"/><animate attributeName="x" values="203.6;212.0;220.4;228.8;237.2;245.6;254.0;262.4;270.8;279.2;287.6;296.0;304.4" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167;1.0000" calcMode="discrete" begin="10.79s" dur="0.66s" fill="freeze"/><set attributeName="opacity" to="0" begin="11.70s" fill="freeze"/></rect>
+<text x="44" y="694" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="11.80s" fill="freeze"/><tspan fill="#7aa2f7">github:     </tspan><tspan fill="#c0caf5">github.com/DAX-Quantum</tspan></text>
+<text x="44" y="715" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="11.90s" fill="freeze"/><tspan fill="#7aa2f7">linkedin:   </tspan><tspan fill="#c0caf5">linkedin.com/in/daksh-vashistha-483a29420</tspan></text>
+<text x="44" y="736" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="12.00s" fill="freeze"/><tspan fill="#7aa2f7">email:      </tspan><tspan fill="#c0caf5">Dax.in@outlook.com</tspan></text>
+<text x="44" y="767" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="12.55s" fill="freeze"/><tspan fill="#9ece6a">DAX-Quantum@tux</tspan><tspan fill="#c0caf5">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#c0caf5">$ </tspan></text>
+<rect x="203.6" y="754" width="8" height="17" fill="#c0caf5" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="12.55s" repeatCount="indefinite"/></rect>
+</svg>
