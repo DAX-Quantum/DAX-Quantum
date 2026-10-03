@@ -23,13 +23,15 @@
 
 Direct access links and stack details for the repositories featured in the terminal:
 
+<!-- START_SECTION:projects -->
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **[linux-server-health-audit](https://github.com/DAX-Quantum/linux-server-health-audit)** | Automated server health auditor monitoring CPU, memory, storage, and active services with status alerts. | `Bash` `Linux` | [![View Repo](https://img.shields.io/badge/Repo-View-181717?logo=github&style=flat-square)](https://github.com/DAX-Quantum/linux-server-health-audit) |
 | **[linux-system-info-tool](https://github.com/DAX-Quantum/linux-system-info-tool)** | Interactive CLI utility for querying hardware specifications, kernel versions, and OS telemetry. | `Bash` `Linux` | [![View Repo](https://img.shields.io/badge/Repo-View-181717?logo=github&style=flat-square)](https://github.com/DAX-Quantum/linux-system-info-tool) |
 | **[Student_Record_System](https://github.com/DAX-Quantum/Student_Record_System)** | CLI database management tool to store, search, update, and persist student academic records. | `C++` `File I/O` | [![View Repo](https://img.shields.io/badge/Repo-View-181717?logo=github&style=flat-square)](https://github.com/DAX-Quantum/Student_Record_System) |
 | **[Comic_book](https://github.com/DAX-Quantum/Comic_book)** | Responsive comic book showcase and reader web application with catalog browsing. | `React` `JavaScript` `CSS3` | [![View Repo](https://img.shields.io/badge/Repo-View-181717?logo=github&style=flat-square)](https://github.com/DAX-Quantum/Comic_book) |
-
+| **[finanace-manager](https://github.com/DAX-Quantum/finanace-manager)** | FinVault personal expense & finance management web application. | `JavaScript` `HTML5` `CSS3` | [![View Repo](https://img.shields.io/badge/Repo-View-181717?logo=github&style=flat-square)](https://github.com/DAX-Quantum/finanace-manager) |
+<!-- END_SECTION:projects -->
 <br/>
 
 ### 🛠️ skills --list
